@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'PlayDisplay';
+    src: url(../fonts/PlayDisplay/PlayfairDisplay-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face{
+    font-family: 'PlayDisplay';
+    src: url(../fonts/PlayDisplay/PlayfairDisplay-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face{
+    font-family: 'PlayDisplay';
+    src: url(../fonts/PlayDisplay/PlayfairDisplay-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: 'PlayDisplay';
+    src: url(../fonts/PlayDisplay/PlayfairDisplay-Regular.ttf);
+    font-weight: 400;
+}

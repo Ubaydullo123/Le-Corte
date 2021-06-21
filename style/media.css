@@ -1,0 +1,123 @@
+@media(max-width:1200px){
+    .content__images__1{
+        width: 100%;
+    }
+    .content__images__2{
+        width: 49%;
+    }
+    
+}
+@media(max-width:992px){
+    .header__item-link{
+        padding: 0;
+    }
+    .content__images__2{
+        margin-bottom: 50px;
+        width: 200%;
+        margin-right: 224px;
+    }
+    .content__images__1{
+        width: 219%;
+    }
+
+    .footer__content__list{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .footer__content__list,
+    .div__footer{
+        flex-direction: column;
+    }
+    .footer__contact__text {
+        font-size: 10px;
+    }
+}
+@media(max-width:768px){
+    .info__image{
+        display: none;
+    }
+    .footer__list{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer__link{
+        margin-top: 40px;
+    }
+    .content__images__2{
+        margin-right: 30px;
+    }
+    .footer__list__link{
+        margin-top: 30px;
+    }
+    .footer__contact__text{
+        width: 32%;
+    }
+    .section__years{
+        display: none;
+    }
+    .section__images{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media(max-width:576px){
+    .header__button{
+        flex-direction: column;
+    }
+    .header__button__btn{
+        margin-top: 30px;
+    }
+    .header__item-list{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header__item-link{
+        margin-bottom: 40px;
+    }
+    .header__intro-list{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .content__images__1{
+        width: 210%;
+    }
+    .info__image{
+        display: none;
+    }
+    .footer__items{
+        flex-direction: column;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer__items__link{
+        margin-right: 26px;
+    }
+    .content__images__2{
+        width: 200%;
+    }
+    .col__iteims__img{
+        flex-direction: column;
+    }
+    .footer__contact__text{
+        display: none;
+    }
+    .header__lists{
+        margin-top: 30px;
+    }
+    .section__years{
+        display: none;
+    }
+    .main__section__title{
+        font-size: 26px;
+    }
+}
